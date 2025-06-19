@@ -10,7 +10,7 @@ Aplicación fullstack desarrollada como prueba técnica para demostrar el uso de
 - React
 - MobX
 - TailwindCSS
-- Axios
+- fetch
 
 ### Backend
 - Laravel
@@ -26,3 +26,6 @@ Aplicación fullstack desarrollada como prueba técnica para demostrar el uso de
    ```bash
    git clone <URL_BACKEND>
    cd <carpeta-backend>
+
+![image](https://github.com/user-attachments/assets/94baf5d2-48a0-44ee-9904-fc7fc4cf03ec)
+
