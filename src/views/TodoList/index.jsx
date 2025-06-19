@@ -88,7 +88,7 @@ const TodoApp = observer(() => {
                 <span className="text-white text-xl">🚀</span>
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-gray-900">Todo App Moderna</h1>
+                <h1 className="text-2xl font-bold text-gray-900">Todo App</h1>
                 <p className="text-gray-600">Gestiona tus tareas con estilo</p>
               </div>
             </div>
